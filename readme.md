@@ -1,12 +1,9 @@
-<h1>jekyll-gulp-autoprefixer-sass-bourbon-jade-browser-sync</h1>
+This is a project to create a personal portfolio site and blog.
 
-<p>Windows, Mac, Linux worked.</p>
+I'm following tutorials from DevTips with a lot of trial and error on my part.
 
-<ol>
-	<li>Ruby installer for Windows - <a target="_blank" href="http://rubyinstaller.org/">rubyinstaller.org</a></li>
-	<li>Install gems - $ gem install jekyll redcarpet rouge</li>
-	<li>NodeJS - use the installer</li>
-	<li>GulpJS - $ npm i -g gulp</li>
-	<li>npm i - in work folder</li>
-	<li>gulp - Run.</li>
-</ol>
+I'm forking this from agragregra's repo here: <a href="https://github.com/agragregra/jekyll-gulp-autoprefixer-sass-bourbon-jade-browser-sync">jekyll-gulp-autoprefixer-sass-bourbon-jade-browser-sync</a>
+
+I'm following the tutorials from <a href="https://www.youtube.com/watch?v=RGbxqmjJa64">Travis Neilson on his DevTips YouTube channel</a>
+
+<strong>I LOVE browsersync!</strong>
